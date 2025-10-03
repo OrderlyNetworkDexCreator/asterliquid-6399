@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Vaults,Rewards,Leaderboard",
-  "VITE_CUSTOM_MENUS": "About, https://asterliquid.org/; Telegram, https://t.me/asterliquid",
+  "VITE_CUSTOM_MENUS": "About, https://asterliquid.org/; Telegram, https://t.me/asterliquid; X, https://x.com/AsterLiquidDEX",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/asterliquid",
   "VITE_DISCORD_URL": "",
