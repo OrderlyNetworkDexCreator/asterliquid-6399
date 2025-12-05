@@ -20,7 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Vaults,Rewards,Swap",
   "VITE_CUSTOM_MENUS": "About, https://asterliquid.org/; Telegram, https://t.me/asterliquid; X, https://x.com/AsterLiquid_DEX; Token, https://dexscreener.com/bsc/0x20726c1499ce5413872afa1d9fc2c1d5be1df8eb",
-  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "true",
   "VITE_ENABLE_CAMPAIGNS": "true",
   "VITE_TELEGRAM_URL": "https://t.me/asterliquid",
   "VITE_DISCORD_URL": "",
@@ -39,6 +39,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
   "VITE_ANALYTICS_SCRIPT": "",
   "VITE_SYMBOL_LIST": "",
-  "VITE_RESTRICTED_REGIONS": "",
+  "VITE_RESTRICTED_REGIONS": "Belarus,Russia,North Korea,Iran",
   "VITE_WHITELISTED_IPS": ""
 };
